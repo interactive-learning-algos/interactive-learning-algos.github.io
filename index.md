@@ -24,6 +24,8 @@ Spring 2025: 17-740
 **Online Learning**| 1/14/2025    | Steven            | Course Overview  |
 &nbsp;| 1/16/2025    | Drew            | Intro to No-Regret Online Learning |
 
+## Instructors 👨‍🏫
+[TEST](http://www.google.com)
 
 ## Resources 📚
 
@@ -38,5 +40,3 @@ Spring 2025: 17-740
 - [MACRL](https://macrl-book.github.io/)
 - [Learning in Games (and Games in Learning)](https://www.cis.upenn.edu/~aaroth/GamesInLearning.pdf)
 
-## Instructors 👨‍🏫
-[TEST](http://www.google.com)
