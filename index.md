@@ -13,9 +13,10 @@ Spring 2025: 17-740
 ## Announcements
 
 
-{: .highlight }
-A paragraph
-
+{: .announcement-title }
+> Week 1 Announcements
+>
+> We can't wait to meet you!
 
 
 
