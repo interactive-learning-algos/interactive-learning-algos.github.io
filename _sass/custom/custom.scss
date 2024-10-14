@@ -1,9 +1,10 @@
 $perf-blue: #4072AF;
 
-$link-color: $perf-blue;
-
 $body-font-family: "Palatino",serif;
+$link-color: $perf-blue;
 
 body {
     font-family: $body-font-family;
-  }
+    $link-color: $perf-blue;
+}
+
