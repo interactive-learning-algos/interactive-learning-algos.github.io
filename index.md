@@ -16,7 +16,5 @@ Spring 2025: 17-740
 
 | Date        | Lecturer         | Topic |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| 1/14/2025    | Steven            | Course Overview  |
+| 1/14/2025    | Steven            | Course Overview  |
