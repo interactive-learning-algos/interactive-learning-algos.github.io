@@ -13,14 +13,8 @@ Spring 2025: 17-740
 ## Announcements
 
 ## Calendar
-| Date        | Topic      | Lecturer | Slides | Scribe Notes |
-|:-------------|:------------------|:------|:------|:------|
-| Date        | Topic      | Lecturer | Slides | Scribe Notes |
-| Date        | Topic      | Lecturer | Slides | Scribe Notes |
-| Date        | Topic      | Lecturer | Slides | Scribe Notes |
 
-
-| head1        | head two          | three |
+| Date        | Lecturer         | Topic |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
