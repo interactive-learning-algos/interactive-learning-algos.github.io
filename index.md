@@ -24,7 +24,7 @@ Interactive learning is a dynamic approach to machine learning where systems lea
 5. **RL from Human Feedback & Applications to Language Modeling:** Learning from preferences. PPO, DPO, SPO.
 
 
-## Calendar (Tentative) 📅
+## Schedule (Tentative) 📅
 
 |Unit     | Date        | Lecturer         | Topic | Reading|
 |:-----|:-------------|:------------------|:------|:------|
@@ -41,14 +41,22 @@ Interactive learning is a dynamic approach to machine learning where systems lea
 &nbsp;| 2/18/2025    | Gokul            | Policy Gradients | &nbsp;|
 &nbsp;| 2/20/2025    | Gokul            | Natural Policy Gradients | &nbsp;|
 &nbsp;| 2/25/2025    | Gokul            | PPO & TRPO | &nbsp;|
-&nbsp;| 2/27/2025    | Gokul            | Hybrid RL | &nbsp;|
+&nbsp;| 2/27/2025    | Guest Lecture            | Hybrid RL | &nbsp;|
 &nbsp;| Spring Break    | &nbsp;          | &nbsp; | &nbsp;|
-
-
-
-
-
-
+&nbsp;| 3/11/2025    | Gokul            | Simulation Lemma | &nbsp;|
+&nbsp;| 3/13/2025    | Gokul            | Practical Model-based RL | &nbsp;|
+**Imitation Learning**| 3/18/2025    | Gokul            | DAgger | &nbsp;|
+&nbsp;| 3/20/2025    | Gokul            | Inverse RL | &nbsp;|
+&nbsp;| 3/25/2025    | Gokul            | Fast Inverse RL | &nbsp;|
+&nbsp;| 3/27/2025    | Guest Lecture    | Practical IL | &nbsp;|
+**RLHF**| 4/1/2025    | Gokul           | RLHF I| &nbsp;|
+&nbsp;| 4/3/2025    | Gokul            | RLHF II | &nbsp;|
+&nbsp;| 4/8/2025    | Guest Lecture            | REBEL / REFUEL | &nbsp;|
+&nbsp;| 4/10/2025    | Gokul            | SPO | &nbsp;|
+**Proj. Presentations**;| 4/15/2025    |  &nbsp;             | Proj. Presentations | &nbsp;|
+&nbsp;| 4/17/2025    |  &nbsp;             | Proj. Presentations | &nbsp;|
+&nbsp;| 4/22/2025    |  &nbsp;             | Proj. Presentations | &nbsp;|
+&nbsp;| 4/24/2025    |  &nbsp;             | Proj. Presentations | &nbsp;|
 
 
 ## Instructors 👨‍🏫
