@@ -60,17 +60,20 @@ Interactive learning is a dynamic approach to machine learning where systems lea
 
 
 ## Instructors 👨‍🏫
-<img src="/assets/images/gks.png" alt="Avatar" style="width:200px; height:200px; border-radius:50%; padding:20px;">
+<figure>
 <img src="/assets/images/zsw.jpg" alt="Avatar" style="width:200px; height:200px; border-radius:50%; padding:20px;">
+<figcaption>[Steven Wu](http://www.zstevenwu.com)</figcaption>
+</figure>
+
+<figure>
 <img src="/assets/images/jab.jpg" alt="Avatar" style="width:200px; height:200px; border-radius:50%; padding:20px;">
+<figcaption>[Drew Bagnell](https://robotwhisperer.org/)</figcaption>
+</figure>
 
-### [Steven Wu](http://www.zstevenwu.com)
-
-### [Drew Bagnell](https://robotwhisperer.org/)
-
-### [Gokul Swamy](http://www.gokul.dev)
-
-
+<figure>
+<img src="/assets/images/gks.png" alt="Avatar" style="width:200px; height:200px; border-radius:50%; padding:20px;">
+<figcaption>[Gokul Swamy](http://www.gokul.dev)</figcaption>
+</figure>
 
 ## Resources 📚
 
