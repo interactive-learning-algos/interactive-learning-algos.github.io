@@ -11,10 +11,12 @@ Spring 2025: 17-740
 [TEST](http://www.google.com)
 
 ## Announcements
-{: .note-title }
-> My note title
->
-> A paragraph with a custom title callout
+
+
+{: .highlight }
+A paragraph
+
+
 
 
 ## Calendar
