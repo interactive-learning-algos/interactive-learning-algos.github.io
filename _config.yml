@@ -4,8 +4,9 @@ theme: just-the-docs
 
 url: https://interactive-learning-algos.github.io/
 
-
 callouts:
   announcement:
     title: Announcements
     color: perf-blue
+
+color_scheme: wider
