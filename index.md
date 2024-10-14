@@ -11,20 +11,10 @@ Spring 2025: 17-740
 [TEST](http://www.google.com)
 
 ## Announcements
-
-{: .important-title }
-> Week 1 Announcements
+{: .note-title }
+> My note title
 >
-> We can't wait to meet you!
-
-{: .important-title }
-> My important title
->
-> A paragraph
->
-> Another paragraph
->
-> The last paragraph
+> A paragraph with a custom title callout
 
 
 ## Calendar
