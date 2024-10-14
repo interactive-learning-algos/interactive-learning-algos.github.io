@@ -53,14 +53,22 @@ Interactive learning is a dynamic approach to machine learning where systems lea
 &nbsp;| 4/3/2025    | Gokul            | RLHF II | &nbsp;|
 &nbsp;| 4/8/2025    | Guest Lecture            | REBEL / REFUEL | &nbsp;|
 &nbsp;| 4/10/2025    | Gokul            | SPO | &nbsp;|
-**Proj. Presentations**;| 4/15/2025    |  &nbsp;             | Proj. Presentations | &nbsp;|
+**Proj. Presentations**| 4/15/2025    |  &nbsp;             | Proj. Presentations | &nbsp;|
 &nbsp;| 4/17/2025    |  &nbsp;             | Proj. Presentations | &nbsp;|
 &nbsp;| 4/22/2025    |  &nbsp;             | Proj. Presentations | &nbsp;|
 &nbsp;| 4/24/2025    |  &nbsp;             | Proj. Presentations | &nbsp;|
 
 
 ## Instructors 👨‍🏫
-[TEST](http://www.google.com)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVoFq3XlAYVa5ThUCMFuzv_C7zei7KhT9Nag&s" alt="Avatar" style="width:100px; height:100px; border-radius:50%;">
+
+### [Steven Wu](http://www.zstevenwu.com)
+
+### [Drew Bagnell](https://robotwhisperer.org/)
+
+### [Gokul Swamy](http://www.gokul.dev)
+
+
 
 ## Resources 📚
 
