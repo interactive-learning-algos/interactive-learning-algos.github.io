@@ -60,6 +60,8 @@ Interactive learning is a dynamic approach to machine learning where systems lea
 
 
 ## Instructors 👨‍🏫
+
+<figure>
 <figure>
 <img src="/assets/images/zsw.jpg" alt="Avatar" style="width:200px; height:200px; border-radius:50%; padding:20px;">
 <figcaption>[Steven Wu](http://www.zstevenwu.com)</figcaption>
@@ -74,6 +76,8 @@ Interactive learning is a dynamic approach to machine learning where systems lea
 <img src="/assets/images/gks.png" alt="Avatar" style="width:200px; height:200px; border-radius:50%; padding:20px;">
 <figcaption>[Gokul Swamy](http://www.gokul.dev)</figcaption>
 </figure>
+</figure>
+
 
 ## Resources 📚
 
