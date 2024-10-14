@@ -3,4 +3,10 @@ title: Home
 layout: home
 ---
 
-Hello World!
+# Algorithmic Foundations of Interactive Learning
+
+## Announcements
+
+## Instructors
+
+## Calendar
