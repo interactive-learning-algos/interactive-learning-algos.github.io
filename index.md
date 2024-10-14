@@ -17,6 +17,16 @@ Spring 2025: 17-740
 >
 > We can't wait to meet you!
 
+{: .important-title }
+> My important title
+>
+> A paragraph
+>
+> Another paragraph
+>
+> The last paragraph
+
+
 ## Calendar
 
 | Date        | Lecturer         | Topic |
