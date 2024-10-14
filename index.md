@@ -15,14 +15,21 @@ Spring 2025: 17-740
 > We can't wait to meet you!
 
 ## Course Overview 📝
-[TEST](http://www.google.com)
+Interactive learning is a dynamic approach to machine learning where systems learn and adapt through continuous interaction with their environment or users, receiving feedback and adjusting their behavior in real time. These techniques are currently experiencing a resurgence across various domains of artificial intelligence and machine learning, from robotics to language modeling. In this advanced theory course, students will explore interactive learning from its foundational principles to recent applications, including fine-tuning Large Language Models (LLMs) and robot learning from demonstration. Key topics include:
+
+- Online Learning
+- Game Solving
+- Reinforcement Learning
+- Imitation Learning & Applications to Robotics
+- RL from Human Feedback & Applications to Language Modeling
+
 
 ## Calendar (Tentative) 📅
 
-|Unit     | Date        | Lecturer         | Topic |
-|:-----|:-------------|:------------------|:------|
-**Online Learning**| 1/14/2025    | Steven            | Course Overview  |
-&nbsp;| 1/16/2025    | Drew            | Intro to No-Regret Online Learning |
+|Unit     | Date        | Lecturer         | Topic | Reading|
+|:-----|:-------------|:------------------|:------|:------|
+**Online Learning**| 1/14/2025    | Steven            | Course Overview  | &nbsp;|
+&nbsp;| 1/16/2025    | Drew            | Intro to No-Regret Online Learning | &nbsp;|
 
 ## Instructors 👨‍🏫
 [TEST](http://www.google.com)
