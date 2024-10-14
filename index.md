@@ -13,3 +13,8 @@ Spring 2025: 17-740
 ## Announcements
 
 ## Calendar
+| Date        | Topic      | Lecturer | Slides | Scribe Notes |
+|:-------------|:------------------|:------|:------|:------|
+| Date        | Topic      | Lecturer | Slides | Scribe Notes |
+| Date        | Topic      | Lecturer | Slides | Scribe Notes |
+| Date        | Topic      | Lecturer | Slides | Scribe Notes |
