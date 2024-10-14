@@ -34,6 +34,20 @@ Interactive learning is a dynamic approach to machine learning where systems lea
 &nbsp;| 1/23/2025    | Steven            | Hedge / Multiplicative Weights | &nbsp;|
 &nbsp;| 1/28/2025    | Steven            | Follow-the-Leader | &nbsp;|
 &nbsp;| 1/30/2025    | Steven            | Bandit Feedback: Exp.3 / Exp.4 | &nbsp;|
+**Game Theory**| 2/4/2025    | Steven            | Regret Minimization | &nbsp;|
+&nbsp;| 2/6/2025    | Steven            | Minimax Equilibria | &nbsp;|
+**Reinforcement Learning**| 2/11/2025    | Steven            | Foundations of MDPs | &nbsp;|
+&nbsp;| 2/13/2025    | Gokul            | API and CPI | &nbsp;|
+&nbsp;| 2/18/2025    | Gokul            | Policy Gradients | &nbsp;|
+&nbsp;| 2/20/2025    | Gokul            | Natural Policy Gradients | &nbsp;|
+&nbsp;| 2/25/2025    | Gokul            | PPO & TRPO | &nbsp;|
+&nbsp;| 2/27/2025    | Gokul            | Hybrid RL | &nbsp;|
+&nbsp;| Spring Break    | &nbsp;          | &nbsp; | &nbsp;|
+
+
+
+
+
 
 
 
