@@ -12,6 +12,11 @@ Spring 2025: 17-740
 
 ## Announcements
 
+{: .important-title }
+> Week 1 Announcements
+>
+> We can't wait to meet you!
+
 ## Calendar
 
 | Date        | Lecturer         | Topic |
