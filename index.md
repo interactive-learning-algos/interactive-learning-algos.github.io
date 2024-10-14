@@ -12,7 +12,7 @@ Spring 2025: 17-740
 {: .announcement-title }
 > Week 1 Announcements
 >
-> We can't wait to meet you!
+> We can't wait to meet you! 👋
 
 ## Course Overview 📝
 Interactive learning is a dynamic approach to machine learning where systems learn and adapt through continuous interaction with their environment or users, receiving feedback and adjusting their behavior in real time. These techniques are currently experiencing a resurgence across various domains of artificial intelligence and machine learning, from robotics to language modeling. In this advanced theory course, students will explore interactive learning from its foundational principles to recent applications, including fine-tuning Large Language Models (LLMs) and robot learning from demonstration. Key topics include:
@@ -30,6 +30,12 @@ Interactive learning is a dynamic approach to machine learning where systems lea
 |:-----|:-------------|:------------------|:------|:------|
 **Online Learning**| 1/14/2025    | Steven            | Course Overview  | &nbsp;|
 &nbsp;| 1/16/2025    | Drew            | Intro to No-Regret Online Learning | &nbsp;|
+&nbsp;| 1/21/2025    | Steven            |Online Gradient Descent | &nbsp;|
+&nbsp;| 1/23/2025    | Steven            | Hedge / Multiplicative Weights | &nbsp;|
+&nbsp;| 1/28/2025    | Steven            | Follow-the-Leader | &nbsp;|
+&nbsp;| 1/30/2025    | Steven            | Bandit Feedback: Exp.3 / Exp.4 | &nbsp;|
+
+
 
 ## Instructors 👨‍🏫
 [TEST](http://www.google.com)
