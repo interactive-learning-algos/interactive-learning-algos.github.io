@@ -63,7 +63,7 @@ Interactive learning is a dynamic approach to machine learning where systems lea
 
 <figure style="display: inline-flex;">
 <figure>
-<img src="/assets/images/zsw.jpg" alt="Avatar" style="width:200px; height:200px; border-radius:50%; padding:20px;">
+<img src="/assets/images/zsw.jpg" alt="Avatar" style="width:7%; border-radius:50%; padding:20px;">
 
 
 <figcaption style="text-align: center;"><a href="http://www.zstevenwu.com"><button type="button" name="button" class="btn">Steven Wu</button>
@@ -71,12 +71,12 @@ Interactive learning is a dynamic approach to machine learning where systems lea
 </figure>
 
 <figure>
-<img src="/assets/images/jab.jpg" alt="Avatar" style="width:200px; height:200px; border-radius:50%; padding:20px;">
+<img src="/assets/images/jab.jpg" alt="Avatar" style="width:7%; border-radius:50%; padding:20px;">
 <figcaption style="text-align: center;"><a href="https://robotwhisperer.org/"><button type="button" name="button" class="btn">Drew Bagnell</button></a></figcaption>
 </figure>
 
 <figure>
-<img src="/assets/images/gks.png" alt="Avatar" style="width:200px; height:200px; border-radius:50%; padding:20px;">
+<img src="/assets/images/gks.png" alt="Avatar" style="width:7%; border-radius:50%; padding:20px;">
 <figcaption style="text-align: center;"><a href="http://www.gokul.dev"><button type="button" name="button" class="btn">Gokul Swamy</button></a></figcaption>
 </figure>
 </figure>
