@@ -1,8 +1,8 @@
-$content-width: 80rem;
+$content-width: 75rem;
 
 .side-bar {
     @include mq(lg) {
-      width: calc((100% - #{$nav-width + $content-width}) / 2 + #{$nav-width});
+      width: calc((70% - #{$nav-width + $content-width}) / 2 + #{$nav-width});
     }
   }
   
@@ -18,7 +18,7 @@ $content-width: 80rem;
       // disable for Max(), we want to use the CSS max() function
       margin-left: Max(
         #{$nav-width},
-        calc((100% - #{$nav-width + $content-width}) / 2 + #{$nav-width})
+        calc((70% - #{$nav-width + $content-width}) / 2 + #{$nav-width})
       );
       // stylelint-enable function-name-case
     }
