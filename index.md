@@ -50,7 +50,7 @@ Interactive learning is a dynamic approach to machine learning where systems lea
 **Imitation Learning**| 3/18/2025    | Gokul            | DAgger | &nbsp;|
 &nbsp;| 3/20/2025    | Gokul            | Inverse RL | &nbsp;|
 &nbsp;| 3/25/2025    | Gokul            | Fast Inverse RL | &nbsp;|
-&nbsp;| 3/27/2025    | Guest Lecture    | Practical IL | &nbsp;|
+&nbsp;| 3/27/2025    | Guest Lecture: Sanjiban Choudhury    | Practical IL | &nbsp;|
 **RLHF**| 4/1/2025    | Gokul           | RLHF I| &nbsp;|
 &nbsp;| 4/3/2025    | Gokul            | RLHF II | &nbsp;|
 &nbsp;| 4/8/2025    | Guest Lecture: Wen Sun            | REBEL / REFUEL | &nbsp;|
