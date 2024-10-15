@@ -5,6 +5,7 @@ layout: home
 
 # Algorithmic Foundations of Interactive Learning
 Spring 2025: 17-740
+
 Tuesday / Thursday 11:00-12:20
 
 ## Announcements 📣
