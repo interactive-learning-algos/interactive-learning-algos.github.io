@@ -7,10 +7,8 @@ seo:
   name: Algorithmic Foundations of Interactive Learning
 ---
 
-# Algorithmic Foundations of Interactive Learning
-Spring 2025: 17-740
-
-Tuesday / Thursday 11:00-12:20
+# Algorithmic Foundations of Interactive Learning 🔄
+Spring 2025. 17-740. Tuesday / Thursday 11:00-12:20.
 
 ## Announcements 📣
 {% assign announcements = site.announcements | reverse %}
