@@ -11,12 +11,12 @@ Jan. 16
   : [JAB Course Note](https://www.cs.cmu.edu/~16831-f14/notes/F10/16831_lecture09_beckart/16831_lecture09_beckart.pdf), [Hedge](https://www.cis.upenn.edu/~mkearns/teaching/COLT/adaboost.pdf)
 
 Jan. 21
-: Online Gradient Descent
-  : [OGD](https://people.eecs.berkeley.edu/~brecht/cs294docs/week1/03.Zinkevich.pdf)
-
-Jan. 23
 : Information Theory and Maximum Entropy
   : [MacKay Ch. 2](https://www.inference.org.uk/itprnn/book.pdf), [MaxEnt](https://www.cs.princeton.edu/courses/archive/spr07/cos424/papers/maxent_icml.pdf)
+
+Jan. 23
+: Online Gradient Descent
+  : [OGD](https://people.eecs.berkeley.edu/~brecht/cs294docs/week1/03.Zinkevich.pdf)
 
 Jan. 26
 : Buffer / Follow-the-Leader
