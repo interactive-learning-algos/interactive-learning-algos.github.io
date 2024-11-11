@@ -2,22 +2,10 @@
 title: Game Theory
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+Feb. 4
+: Computing Equilibria I
+  : [Adaboost](https://www.cis.upenn.edu/~mkearns/teaching/COLT/adaboost.pdf), [Roth Textbook](https://www.cis.upenn.edu/~aaroth/GamesInLearning.pdf)
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
-
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
-
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+Feb. 6
+: Computing Equilibria II
+  : [Adaboost](https://www.cis.upenn.edu/~mkearns/teaching/COLT/adaboost.pdf), [Roth Textbook](https://www.cis.upenn.edu/~aaroth/GamesInLearning.pdf)
