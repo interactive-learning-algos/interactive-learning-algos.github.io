@@ -19,7 +19,7 @@ Tuesday / Thursday 11:00-12:20
 {% endfor %}
 
 ## Course Overview 📝
-Interactive learning is a dynamic approach to machine learning where systems learn and adapt through continuous interaction with their environment or users, receiving feedback and adjusting their behavior in real time. These techniques are currently experiencing a resurgence across various domains of artificial intelligence and machine learning, from robotics to language modeling. In this advanced theory course, students will explore interactive learning from its foundational principles to recent applications, including fine-tuning Large Language Models (LLMs) and robot learning from demonstration. 
+Interactive learning is a dynamic approach to machine learning where systems learn and adapt through continuous interaction with their environment or users, receiving feedback and adjusting their behavior in response. These techniques are currently experiencing a resurgence across various domains of artificial intelligence and machine learning, from robotics to language modeling. In this advanced theory course, students will explore interactive learning from its foundational principles to recent applications, including fine-tuning Large Language Models (LLMs) and robot learning from demonstration. 
 
 Key topics include:
 1. **Online Learning:** Learning under distribution shift.
@@ -30,39 +30,6 @@ Key topics include:
 
 
 ## Schedule (Tentative) 📅
-
-
-|Unit     | Date        | Lecturer         | Topic | Reading|
-|:-----|:-------------|:------------------|:------|:------|
-**Online Learning**| 1/14/2025    | Steven            | Course Overview  | &nbsp;|
-&nbsp;| 1/16/2025    | Drew            | Intro to No-Regret Online Learning | &nbsp;|
-&nbsp;| 1/21/2025    | Steven            |Online Gradient Descent | &nbsp;|
-&nbsp;| 1/23/2025    | Steven            | Hedge / Maximum Entropy | &nbsp;|
-&nbsp;| 1/28/2025    | Steven            | Follow-the-Leader | &nbsp;|
-&nbsp;| 1/30/2025    | Steven            | Boosting | &nbsp;|
-**Game Theory**| 2/4/2025    | Steven            | Regret Minimization | &nbsp;|
-&nbsp;| 2/6/2025    | Steven            | Minimax Equilibria | &nbsp;|
-**Reinforcement Learning**| 2/11/2025    | Steven            | Foundations of MDPs | &nbsp;|
-&nbsp;| 2/13/2025    | Gokul            | API and CPI | &nbsp;|
-&nbsp;| 2/18/2025    | Gokul            | Policy Gradients | &nbsp;|
-&nbsp;| 2/20/2025    | Gokul            | Natural Policy Gradients | &nbsp;|
-&nbsp;| 2/25/2025    | Gokul            | PPO & TRPO | &nbsp;|
-&nbsp;| 2/27/2025    | Guest Lecture: Yuda Song            | Hybrid RL | &nbsp;|
-&nbsp;| Spring Break    | &nbsp;          | &nbsp; | &nbsp;|
-&nbsp;| 3/11/2025    | Gokul            | Three Lemmas for Model-Based RL | &nbsp;|
-&nbsp;| 3/13/2025    | Gokul            | Representation Learning for MBRL | &nbsp;|
-**Imitation Learning**| 3/18/2025    | Gokul            | DAgger | &nbsp;|
-&nbsp;| 3/20/2025    | Gokul            | Inverse RL | &nbsp;|
-&nbsp;| 3/25/2025    | Gokul            | Fast Inverse RL | &nbsp;|
-&nbsp;| 3/27/2025    | Guest Lecture: Sanjiban Choudhury    | Practical IL | &nbsp;|
-**RLHF**| 4/1/2025    | Gokul           | RLHF I| &nbsp;|
-&nbsp;| 4/3/2025    | Gokul            | RLHF II | &nbsp;|
-&nbsp;| 4/8/2025    | Guest Lecture: Wen Sun            | REBEL / REFUEL | &nbsp;|
-&nbsp;| 4/10/2025    | Gokul            | SPO | &nbsp;|
-**Proj. Presentations**| 4/15/2025    |  &nbsp;             | Proj. Presentations | &nbsp;|
-&nbsp;| 4/17/2025    |  &nbsp;             | Proj. Presentations | &nbsp;|
-&nbsp;| 4/22/2025    |  &nbsp;             | Proj. Presentations | &nbsp;|
-&nbsp;| 4/24/2025    |  &nbsp;             | Proj. Presentations | &nbsp;|
 
 {% for module in site.modules %}
 {{ module }}

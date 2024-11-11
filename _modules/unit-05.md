@@ -2,22 +2,18 @@
 title: RLHF
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+Apr. 1
+: RLHF I
+  : [RL from Prefs.](https://arxiv.org/pdf/1706.03741), [PPO+RM](https://arxiv.org/abs/2009.01325), [DPO](https://arxiv.org/pdf/2305.18290)
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+Apr. 3
+: RLHF II
+  : [RL from Prefs.](https://arxiv.org/pdf/1706.03741), [PPO+RM](https://arxiv.org/abs/2009.01325), [DPO](https://arxiv.org/pdf/2305.18290)
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
+Apr. 8
+: REBEL and REFUEL (Guest Lecture: Wen Sun)
+  : [REBEL](https://arxiv.org/abs/2404.16767), [REFUEL](https://arxiv.org/pdf/2410.04612)
 
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+Mar. 27
+: RLHF as Game Solving
+  : [SPO](https://gokul.dev/spo/)
