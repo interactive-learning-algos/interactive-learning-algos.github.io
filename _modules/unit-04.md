@@ -2,22 +2,18 @@
 title: Imitation Learning
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+Mar. 18
+: Covariate Shift in IL
+  : [Invitation to Imitation](https://www.ri.cmu.edu/pub_files/2015/3/InvitationToImitation_3_1415.pdf), [DAgger](https://arxiv.org/pdf/1011.0686)
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+Mar. 20
+: IL as Game Solving
+  : [MaxEnt IRL](https://cdn.aaai.org/AAAI/2008/AAAI08-227.pdf), [Moment Matching](https://gokul.dev/mmil/)
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
+Mar. 25
+: Efficient Inverse RL
+  : [FILTER](https://gokul.dev/filter/), [Hybrid IRL](https://gokul.dev/hyper/)
 
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+Mar. 27
+: IL on Robots (Guest Lecture: Sanjiban Choudhury)
+  : [Diffusion Policy](https://arxiv.org/pdf/2303.04137)
