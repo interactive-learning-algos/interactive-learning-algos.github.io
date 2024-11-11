@@ -2,14 +2,14 @@
 title: Project Presentations
 ---
 
-April 15
+Apr. 15
 : Project Presentations
 
-April 17
+Apr. 17
 : Project Presentations
 
-April 22
+Apr. 22
 : Project Presentations
 
-April 25
+Apr. 25
 : Project Presentations

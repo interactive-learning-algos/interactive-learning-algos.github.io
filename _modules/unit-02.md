@@ -1,5 +1,5 @@
 ---
-title: Game Theory
+title: Game Solving
 ---
 
 Feb. 4

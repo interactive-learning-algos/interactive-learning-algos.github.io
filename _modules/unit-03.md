@@ -2,22 +2,36 @@
 title: Reinforcement Learning
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+Feb. 11
+: Foundations of RL
+  : [Syllabus](https://interactive-learning-algos.github.io/syllabus/)
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+Feb. 13
+: API & CPI
+  : [CPI](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf)
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
+Feb. 18
+: Policy Gradients
+  : [Wen's Slides](https://wensun.github.io/CS6789_fall_2024/PG_1_pdf.pdf)
 
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
+Feb. 20
+: The Natural Policy Gradient
+  : [NPG](https://proceedings.neurips.cc/paper_files/paper/2001/file/4b86abe48d358ecf194c56c69108433e-Paper.pdf), [Covariant Policy Search](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=acbba2baaff24d6772ff89c27440c8c599115e19)
 
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+Feb. 25
+: TRPO & PPO
+  : [TRPO](https://arxiv.org/pdf/1502.05477), [PPO](https://arxiv.org/pdf/1707.06347)
+
+Feb. 27
+: Hybrid RL (Guest Lecture: Yuda Song)
+  : [PSDP](https://papers.nips.cc/paper_files/paper/2003/file/3837a451cd0abc5ce4069304c5442c87-Paper.pdf), [NRPI](https://arxiv.org/pdf/1406.5979), [HyQ](https://arxiv.org/pdf/2210.06718)
+
+Spring Break 🏝️
+
+Mar. 11
+: Model-based RL
+  : [Wen's Simulation Lemma Note](https://wensun.github.io/CS4789_data/simulation_lemma.pdf), [LAMPS](https://arxiv.org/pdf/2303.00694)
+
+Mar. 13
+: Abstraction in MBRL
+  : [DREAMER](https://arxiv.org/pdf/2301.04104), [ACS](https://arxiv.org/pdf/2207.08229)
