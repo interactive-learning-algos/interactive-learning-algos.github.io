@@ -14,6 +14,6 @@ Apr. 8
 : REBEL and REFUEL (Guest Lecture: [Wen Sun](https://wensun.github.io/))
   : [REBEL](https://arxiv.org/abs/2404.16767), [REFUEL](https://arxiv.org/pdf/2410.04612)
 
-Mar. 27
+Apr. 10
 : RLHF as Game Solving
   : [SPO](https://gokul.dev/spo/)
