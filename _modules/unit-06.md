@@ -2,14 +2,14 @@
 title: Project Presentations
 ---
 
-4/15/2025
+April 15
 : Project Presentations
 
-4/17/2025
+April 17
 : Project Presentations
 
-4/22/2025
+April 22
 : Project Presentations
 
-4/25/2025
+April 25
 : Project Presentations
