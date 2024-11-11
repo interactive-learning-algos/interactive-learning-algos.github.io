@@ -2,18 +2,10 @@
 title: Project Presentations
 ---
 
-Apr. 15
-: Project Presentations
-  : TBD
-
-Apr. 17
-: Project Presentations
-  : TBD
-
 Apr. 22
-: Project Presentations
-  : TBD
+: **Project Presentations**{: .label .label-blue}
+  : Presenters TBD
 
 Apr. 25
-: Project Presentations
-  : TBD
+: **Project Presentations**{: .label .label-blue}
+  : Presenters TBD

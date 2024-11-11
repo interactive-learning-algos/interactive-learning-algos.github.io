@@ -1,19 +1,18 @@
 ---
-title: Imitation Learning
+title: Inverse RL
 ---
 
-Mar. 18
-: Covariate Shift in IL
-  : [Invitation to Imitation](https://www.ri.cmu.edu/pub_files/2015/3/InvitationToImitation_3_1415.pdf), [DAgger](https://arxiv.org/pdf/1011.0686)
-
-Mar. 20
+Mar. 25
 : IL as Game Solving
   : [MaxEnt IRL](https://cdn.aaai.org/AAAI/2008/AAAI08-227.pdf), [Moment Matching](https://gokul.dev/mmil/)
 
-Mar. 25
+Mar. 27
 : Efficient Inverse RL
   : [FILTER](https://gokul.dev/filter/), [Hybrid IRL](https://gokul.dev/hyper/)
 
-Mar. 27
-: IL on Robots (Guest Lecture: [Sanjiban Choudhury](https://sanjibanc.github.io/))
+Apr. 1
+: IRL^2: Inverse RL In Real Life (Guest Lecture: [Sanjiban Choudhury](https://sanjibanc.github.io/))
   : [Diffusion Policy](https://arxiv.org/pdf/2303.04137)
+
+Apr. 3
+: **HW #2 Presentations**{: .label .label-blue}

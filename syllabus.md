@@ -34,7 +34,7 @@ Key topics include:
 - **Location**: TBD
 
 ## Prerequisites
-This is a theory-oriented course, intended for graduate students and advanced undergraduates and therefore requires mathematical maturity. The (informal) prerequisite is familiarity with machine learning, algorithms, optimization, probability, and standard proof techniques. Prior coursework in these topics will helpful.
+This is a theory-oriented course, intended for graduate students and advanced undergraduates and therefore requires mathematical maturity. The (informal) prerequisite is familiarity with machine learning, algorithms, optimization, probability, and standard proof techniques. Prior coursework in these topics will helpful -- we recommend students have taken a graduate-level machine learning course (e.g. 36-705, 10-715).
 
 ## Textbooks
 There is no need buy any textbook for this course. We will provide lecture notes in this course. See the [resources page](https://interactive-learning-algos.github.io/resources/) for some relevant textbooks.
@@ -51,17 +51,20 @@ these dimensions and any other visible and invisible differences not captured in
 - **Email**: If you email your instructors, you might want to include the substring "[AFIL Course]" to begin a meaningful subject line and have tried to resolve the issue appropriately otherwise. For example, you should post questions about course material on Canvas first, and then use emails only after an appropriate amount of time has passed without a response. Please use your CMU email account.
 
 ## Grading
-This course will have no assignments nor exams. Instead, grading will be a product of the following components:
+This course will have no exams. Instead, grading will be a product of the following components:
 
 - **Attendance**: We want students to attend lectures in person consistently. Students are permitted 2 unexecused absenses, no questions asked, before being docked.
 - **Scribing**: One goal we have for this course is to release a high-quality set of notes that summarize the content of the lectures. For each lecture, we will assign a scribe who will take and then type up notes for approval by the instructors.
+- **Homeworks**: This course will have two open-ended implementation-based homeworks on applying techniques from the class that will be solved in small groups. Solutions will then being presented to the class.
 - **Project**: Students will engage in a semester-long research project related to the themes of the course before presenting them at the end of the semester. Midway through the semester, students will submit project proposals in groups. The grade for the project will be a function of the proposal, final presentation, and final write-up. We expect these to be of the quality of a paper at a top-tier ML conference.
 
 Percentage | Activity  | 
 ------|-----|
 10%| Attendance |
+15%| HW 1 |
+15%| HW 2 |
 20%| Scribing |
-70%| Project |
+40%| Project |
 
 ## Health & Wellness
 Take care of yourself. Do your best to maintain a healthy lifestyle this semester by eating well, exercising, avoiding drugs and alcohol, getting enough sleep and taking some time to relax. This will help you achieve your goals and cope with stress.

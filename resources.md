@@ -26,4 +26,5 @@ description: Course resources.
 - [Shalev-Shwartz's Online Learning Survey](https://www.cs.huji.ac.il/w~shais/papers/OLsurvey.pdf)
 - [Boyd's Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/)
 - [Roth's Learning in Games (and Games in Learning)](https://www.cis.upenn.edu/~aaroth/GamesInLearning.pdf)
+- [MacKay's Info Theory Book](https://www.inference.org.uk/itprnn/book.pdf)
 - [Scribe Notes for Drew's FA14 Course](https://www.cs.cmu.edu/~16831-f14/notes/F14/)
