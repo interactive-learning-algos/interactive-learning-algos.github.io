@@ -19,6 +19,11 @@ Tuesday / Thursday 11:00-12:20
 >
 > We can't wait to meet you! 👋
 
+{% assign announcements = site.announcements | reverse %}
+{% for announcement in announcements %}
+{{ announcement }}
+{% endfor %}
+
 ## Course Overview 📝
 Interactive learning is a dynamic approach to machine learning where systems learn and adapt through continuous interaction with their environment or users, receiving feedback and adjusting their behavior in real time. These techniques are currently experiencing a resurgence across various domains of artificial intelligence and machine learning, from robotics to language modeling. In this advanced theory course, students will explore interactive learning from its foundational principles to recent applications, including fine-tuning Large Language Models (LLMs) and robot learning from demonstration. Key topics include:
 
