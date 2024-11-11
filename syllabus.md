@@ -27,9 +27,10 @@ Key topics include:
 5. **RL from Human Feedback & Applications to Language Modeling:** Learning from preferences. PPO, DPO, SPO.
 
 ## Logistics
-- **Course**: Algorithmic Foundations of Interactive Learning, Spring 2025
-- **Lecture**: Spring 2025, 11:00AM--12:20PM EST, Tues & Thurs
-- **Office Hours**: Spring 2025, 2:00PM--3:00PM EST, Friday
+- **Title**: Algorithmic Foundations of Interactive Learning, Spring 2025
+- **Course Number**: 17-740
+- **Lecture**: 11:00AM--12:20PM EST, Tues & Thurs
+- **Office Hours**: 2:00PM--3:00PM EST, Friday
 - **Location**: TBD
 
 ## Prerequisites

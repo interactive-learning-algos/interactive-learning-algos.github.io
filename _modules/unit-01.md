@@ -12,7 +12,7 @@ Jan. 16
 
 Jan. 21
 : Online Gradient Descent
-  : [OGD Paper](https://people.eecs.berkeley.edu/~brecht/cs294docs/week1/03.Zinkevich.pdf)
+  : [OGD](https://people.eecs.berkeley.edu/~brecht/cs294docs/week1/03.Zinkevich.pdf)
 
 Jan. 23
 : Hedge / MaxEnt

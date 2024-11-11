@@ -3,8 +3,8 @@ title: Reinforcement Learning
 ---
 
 Feb. 11
-: Foundations of RL
-  : [Syllabus](https://interactive-learning-algos.github.io/syllabus/)
+: Foundations of MDPs
+  : [Nan's Note 1](https://nanjiang.cs.illinois.edu/files/cs542f22/note1.pdf)
 
 Feb. 13
 : API & CPI
@@ -34,4 +34,4 @@ Mar. 11
 
 Mar. 13
 : Abstraction in MBRL
-  : [DREAMER](https://arxiv.org/pdf/2301.04104), [ACS](https://arxiv.org/pdf/2207.08229)
+  : [Nan's Note 4](https://nanjiang.cs.illinois.edu/files/cs542f22/note4.pdf), [DREAMER](https://arxiv.org/pdf/2301.04104), [ACS](https://arxiv.org/pdf/2207.08229)
