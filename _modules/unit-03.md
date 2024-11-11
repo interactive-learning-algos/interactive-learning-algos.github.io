@@ -23,7 +23,7 @@ Feb. 25
   : [TRPO](https://arxiv.org/pdf/1502.05477), [PPO](https://arxiv.org/pdf/1707.06347)
 
 Feb. 27
-: Hybrid RL (Guest Lecture: Yuda Song)
+: Hybrid RL (Guest Lecture: [Yuda Song](https://yudasong.github.io/))
   : [PSDP](https://papers.nips.cc/paper_files/paper/2003/file/3837a451cd0abc5ce4069304c5442c87-Paper.pdf), [NRPI](https://arxiv.org/pdf/1406.5979), [HyQ](https://arxiv.org/pdf/2210.06718)
 
 Spring Break 🏝️

@@ -15,5 +15,5 @@ Mar. 25
   : [FILTER](https://gokul.dev/filter/), [Hybrid IRL](https://gokul.dev/hyper/)
 
 Mar. 27
-: IL on Robots (Guest Lecture: Sanjiban Choudhury)
+: IL on Robots (Guest Lecture: [Sanjiban Choudhury](https://sanjibanc.github.io/))
   : [Diffusion Policy](https://arxiv.org/pdf/2303.04137)
