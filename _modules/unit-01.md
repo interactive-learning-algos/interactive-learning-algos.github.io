@@ -18,10 +18,10 @@ Jan. 23
 : Hedge / MaxEnt
   : [Hedge](https://www.cis.upenn.edu/~mkearns/teaching/COLT/adaboost.pdf), [MaxEnt](https://www.cs.princeton.edu/courses/archive/spr07/cos424/papers/maxent_icml.pdf)
 
+Jan. 26
+: Boosting & Functional Gradients
+  : [Friedman](https://jerryfriedman.su.domains/ftp/trebst.pdf), [Mason](https://proceedings.neurips.cc/paper_files/paper/1999/file/96a93ba89a5b5c6c226e49b88973f46e-Paper.pdf)
+
 Jan. 28
 : Follow-the-Leader
   : [FTRL](https://proceedings.mlr.press/v15/mcmahan11b/mcmahan11b.pdf)
-
-Jan. 28
-: Boosting & Functional Gradients
-  : [Friedman](https://jerryfriedman.su.domains/ftp/trebst.pdf), [Mason](https://proceedings.neurips.cc/paper_files/paper/1999/file/96a93ba89a5b5c6c226e49b88973f46e-Paper.pdf)
