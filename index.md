@@ -30,6 +30,7 @@ Interactive learning is a dynamic approach to machine learning where systems lea
 
 ## Schedule (Tentative) 📅
 
+
 |Unit     | Date        | Lecturer         | Topic | Reading|
 |:-----|:-------------|:------------------|:------|:------|
 **Online Learning**| 1/14/2025    | Steven            | Course Overview  | &nbsp;|
@@ -61,6 +62,10 @@ Interactive learning is a dynamic approach to machine learning where systems lea
 &nbsp;| 4/17/2025    |  &nbsp;             | Proj. Presentations | &nbsp;|
 &nbsp;| 4/22/2025    |  &nbsp;             | Proj. Presentations | &nbsp;|
 &nbsp;| 4/24/2025    |  &nbsp;             | Proj. Presentations | &nbsp;|
+
+{% for module in site.modules %}
+{{ module }}
+{% endfor %}
 
 
 ## Instructors 👨‍🏫

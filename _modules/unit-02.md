@@ -1,5 +1,5 @@
 ---
-title: Introduction to Java
+title: Game Theory
 ---
 
 Sep 28
