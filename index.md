@@ -13,12 +13,6 @@ Spring 2025: 17-740
 Tuesday / Thursday 11:00-12:20
 
 ## Announcements 📣
-
-{: .announcement-title }
-> Week 1 Announcements
->
-> We can't wait to meet you! 👋
-
 {% assign announcements = site.announcements | reverse %}
 {% for announcement in announcements %}
 {{ announcement }}
