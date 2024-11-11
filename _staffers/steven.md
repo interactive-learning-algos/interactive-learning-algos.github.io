@@ -3,7 +3,7 @@ name: Steven Wu
 role: Instructor
 email: zstevenwu@cmu.edu
 website: https://zstevenwu.com/
-photo: zsw.png
+photo: zsw.jpg
 meta:
-  Office Hours: TBD
+  Office Hours: 2-3, Friday
 ---
