@@ -15,4 +15,4 @@ Apr. 1
   : [Diffusion Policy](https://arxiv.org/pdf/2303.04137)
 
 Apr. 3
-: **HW #2 Presentations**{: .label .label-blue}
+: **HW #2 Pres.**{: .label .label-blue}

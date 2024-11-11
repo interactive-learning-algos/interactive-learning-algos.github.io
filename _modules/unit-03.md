@@ -4,7 +4,7 @@ title: Sequential Decision Making (RL/IL)
 
 Feb. 6
 : Foundations of MDPs
-  : [Nan's Note 1](https://nanjiang.cs.illinois.edu/files/cs542f22/note1.pdf), **HW #1 Released**{: .label .label-blue}
+  : [Nan's Note 1](https://nanjiang.cs.illinois.edu/files/cs542f22/note1.pdf), **HW #1 Out**{: .label .label-blue}
 
 Feb. 11
 : Covariate Shift in IL
@@ -27,8 +27,8 @@ Feb. 25
   : [TRPO](https://arxiv.org/pdf/1502.05477), [PPO](https://arxiv.org/pdf/1707.06347)
 
 Feb. 27
-: **HW #1 Presentations**{: .label .label-blue}
-  : **HW #2 Released**{: .label .label-blue}
+: **HW #1 Pres.**{: .label .label-blue}
+  : **HW #2 Out**{: .label .label-blue}
 
 Spring Break 🏝️
 
