@@ -7,7 +7,7 @@ Feb. 6
   : [Nan's Note 1](https://nanjiang.cs.illinois.edu/files/cs542f22/note1.pdf), **HW #1 Out**{: .label .label-blue}
 
 Feb. 11
-: Covariate Shift in IL
+: DAgger & Covariate Shift in IL
   : [Invitation to Imitation](https://www.ri.cmu.edu/pub_files/2015/3/InvitationToImitation_3_1415.pdf), [DAgger](https://arxiv.org/pdf/1011.0686)
 
 Feb. 13
