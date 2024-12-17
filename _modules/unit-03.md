@@ -34,16 +34,16 @@ Spring Break 🏝️
 
 Mar. 11
 : Model-based RL
-  : [Wen's Simulation Lemma Note](https://wensun.github.io/CS4789_data/simulation_lemma.pdf), 
+  : [Wen's Simulation Lemma Note](https://wensun.github.io/CS4789_data/simulation_lemma.pdf), [Nan's Note 4](https://nanjiang.cs.illinois.edu/files/cs542f22/note4.pdf), [DREAMER](https://arxiv.org/pdf/2301.04104)
 
 Mar. 13
 : Hybrid RL (Guest Lecture: [Yuda Song](https://yudasong.github.io/))
   : [HyQ](https://arxiv.org/pdf/2210.06718), [LAMPS](https://arxiv.org/pdf/2303.00694)
 
 Mar. 18
-: Learning by Cheating & Model-Predictive Control
-  : [LBC](https://arxiv.org/pdf/1912.12294), [SequIL](https://gokul.dev/sequil/), [MCTS](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=6661e57237e4e8739b7a4946c4d3d4875376c068)
+: Learning by Cheating
+  : [LBC](https://arxiv.org/pdf/1912.12294), [SequIL](https://gokul.dev/sequil/)
 
 Mar. 20
-: Abstraction in MBRL
-  : [Nan's Note 4](https://nanjiang.cs.illinois.edu/files/cs542f22/note4.pdf), [DREAMER](https://arxiv.org/pdf/2301.04104), [ACS](https://arxiv.org/pdf/2207.08229)
+: Model Predictive Control & Test-Time Scaling
+  : [MCTS](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=6661e57237e4e8739b7a4946c4d3d4875376c068)
