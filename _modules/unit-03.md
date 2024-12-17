@@ -34,7 +34,7 @@ Spring Break 🏝️
 
 Mar. 11
 : Model-based RL
-  : [Wen's Simulation Lemma Note](https://wensun.github.io/CS4789_data/simulation_lemma.pdf), [Nan's Note 4](https://nanjiang.cs.illinois.edu/files/cs542f22/note4.pdf), [DREAMER](https://arxiv.org/pdf/2301.04104)
+  : [Wen's Simulation Lemma Note](https://wensun.github.io/CS4789_data/simulation_lemma.pdf), [Nan's Note 4](https://nanjiang.cs.illinois.edu/files/cs542f22/note4.pdf)
 
 Mar. 13
 : Hybrid RL (Guest Lecture: [Yuda Song](https://yudasong.github.io/))
