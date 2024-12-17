@@ -8,7 +8,7 @@ Apr. 8
 
 Apr. 10
 : The Value of Interaction in RLHF
-  : [DPO](https://arxiv.org/pdf/2305.18290)
+  : [DPO](https://arxiv.org/pdf/2305.18290), [HyPO](https://arxiv.org/abs/2406.01462)
 
 Apr. 15
 : REBEL and REFUEL (Guest Lecture: [Wen Sun](https://wensun.github.io/))
