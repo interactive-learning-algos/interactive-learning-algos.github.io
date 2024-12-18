@@ -6,6 +6,6 @@ Apr. 22
 : **Project Pres.**{: .label .label-blue}
   : Presenters TBD
 
-Apr. 25
+Apr. 24
 : **Project Pres.**{: .label .label-blue}
   : Presenters TBD
