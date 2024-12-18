@@ -61,11 +61,11 @@ these dimensions and any other visible and invisible differences not captured in
 ## Grading
 This course will have no exams. Instead, grading will be a product of the following components:
 
-Component 1: Understanding Course Material
+**Component 1: Understanding Course Material**
 - **Attendance**: We want students to attend lectures in person consistently. We will take attendance via a completion-graded quiz on the contents of the last lecture at the start of class.
 - **Scribing**: One goal we have for this course is to release a high-quality set of notes that summarize the content of the lectures. For each lecture, we will assign a pair of scribes who will take and then type up notes for approval by the instructors. We expect students to scribe twice over the semester. The first draft of these notes will be due 1 week after the corresponding lecture, with the final draft due a week later.
 
-Component 2: Applying Course Material
+**Component 2: Applying Course Material**
 - **Homeworks**: This course will have two open-ended implementation-based homeworks on applying techniques from the class that will be solved in small groups. Solutions will then being presented to the class. More than just the quality of the result, we will grade homeworks based on how well students are able to articulate how their solution builds on concepts from the course in their presentation. We expect these to be fairly low workload.
 - **Project**: Students will engage in a semester-long research project related to the themes of the course before presenting them at the end of the semester. Midway through the semester, students will submit project proposals in groups. These should include an introduction to the key idea, related work, and a timeline for the rest of the semester. The grade for the project will be a function of the proposal, final presentation, and final write-up. We expect projects to be of the quality of a paper at a top-tier ML conference, with a special emphasis placed on how the project builds on concepts from the course.
 
