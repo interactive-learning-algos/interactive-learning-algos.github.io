@@ -37,7 +37,7 @@ Mar. 11
   : [Wen's Simulation Lemma Note](https://wensun.github.io/CS4789_data/simulation_lemma.pdf), [Nan's Note 4](https://nanjiang.cs.illinois.edu/files/cs542f22/note4.pdf)
 
 Mar. 13
-: Hybrid RL (Guest Lecture: [Yuda Song](https://yudasong.github.io/))
+: **Proj. Proposal Due**{: .label .label-blue} Hybrid RL (Guest Lecture: [Yuda Song](https://yudasong.github.io/))
   : [HyQ](https://arxiv.org/pdf/2210.06718), [LAMPS](https://arxiv.org/pdf/2303.00694)
 
 Mar. 18

@@ -26,12 +26,20 @@ Key topics include:
 4. **Imitation Learning & Applications to Robotics:** Learning from demonstrations. Behavioral cloning, DAgger, and inverse RL.
 5. **RL from Human Feedback & Applications to Language Modeling:** Learning from preferences. PPO, DPO, SPO.
 
+## Learning Objectives
+1. Understand the algorithmic foundations of interactive learning: online learning, game-solving, and RL.
+2. Understand the challenges (and solutions) that arise when scaling these foundational techniques to real-world imitation learning and RLHF problems.
+3. Being able to apply concepts from the course to solve novel interactive learning problems.
+
 ## Logistics
 - **Title**: Algorithmic Foundations of Interactive Learning, Spring 2025
 - **Course Number**: 17-740
 - **Lecture**: 11:00AM--12:20PM EST, Tues & Thurs
 - **Office Hours**: 2:00PM--3:00PM EST, Friday
 - **Location**: TBD
+
+## Lecture Recordings
+We aim to publicly release lecture recordings / scribe notes within a few weeks of the corresponding class. However, we still expect students to attend lectures and will grade them accordingly.
 
 ## Prerequisites
 This is a theory-oriented course, intended for graduate students and advanced undergraduates and therefore requires mathematical maturity. The (informal) prerequisite is familiarity with machine learning, algorithms, optimization, probability, and standard proof techniques. Prior coursework in these topics will helpful -- we recommend students have taken a graduate-level machine learning course (e.g. 36-705, 10-715).
@@ -44,7 +52,7 @@ If you have a disability and are registered with the Office of Disability Resour
 
 ## Diversity Statement
 It is our goal that students from all diverse backgrounds and perspectives are well served by this course, that students’ learning needs be addressed both in and out of class, and that the diversity that students bring to this class be viewed as a resource, strength, and benefit. Dimensions of diversity include race, age, national origin, ethnicity, gender identity and expression, intellectual and physical ability, sexual orientation, faith and non-faith perspectives, socio-economic class, political ideology, education, primary language, family status, military experience, cognitive style, and communication style. We are intentional in our aim to present materials and activities that are respectful of diversity, based on
-these dimensions and any other visible and invisible differences not captured in this list. Indeed, in this class you will learn to approach technology design from an empathetic, human-centered perspective that directly examines and challenges bias and inequality. Your suggestions for ensuring that the class lives up to these values are encouraged and welcomed. In addition, if at any time you experience or witness anything in this class that challenges inclusion, is insensitive or othering, or reinforces biases or stereotypes, please report those experiences (responses can be anonymous).
+these dimensions and any other visible and invisible differences not captured in this list. In addition, if at any time you experience or witness anything in this class that challenges inclusion, is insensitive or othering, or reinforces biases or stereotypes, please report those experiences (responses can be anonymous).
 
 ## Communication
 - **Canvas**: We will be using Canvas for all assignments and grades. Please also post all questions on Canvas as discussions instead of sending emails.
@@ -53,10 +61,13 @@ these dimensions and any other visible and invisible differences not captured in
 ## Grading
 This course will have no exams. Instead, grading will be a product of the following components:
 
-- **Attendance**: We want students to attend lectures in person consistently. Students are permitted 2 unexecused absenses, no questions asked, before being docked.
-- **Scribing**: One goal we have for this course is to release a high-quality set of notes that summarize the content of the lectures. For each lecture, we will assign a scribe who will take and then type up notes for approval by the instructors.
-- **Homeworks**: This course will have two open-ended implementation-based homeworks on applying techniques from the class that will be solved in small groups. Solutions will then being presented to the class.
-- **Project**: Students will engage in a semester-long research project related to the themes of the course before presenting them at the end of the semester. Midway through the semester, students will submit project proposals in groups. The grade for the project will be a function of the proposal, final presentation, and final write-up. We expect these to be of the quality of a paper at a top-tier ML conference.
+Component 1: Understanding Course Material
+- **Attendance**: We want students to attend lectures in person consistently. We will take attendance via a completion-graded quiz on the contents of the last lecture at the start of class.
+- **Scribing**: One goal we have for this course is to release a high-quality set of notes that summarize the content of the lectures. For each lecture, we will assign a pair of scribes who will take and then type up notes for approval by the instructors. We expect students to scribe twice over the semester. The first draft of these notes will be due 1 week after the corresponding lecture, with the final draft due a week later.
+
+Component 2: Applying Course Material
+- **Homeworks**: This course will have two open-ended implementation-based homeworks on applying techniques from the class that will be solved in small groups. Solutions will then being presented to the class. More than just the quality of the result, we will grade homeworks based on how well students are able to articulate how their solution builds on concepts from the course in their presentation. We expect these to be fairly low workload.
+- **Project**: Students will engage in a semester-long research project related to the themes of the course before presenting them at the end of the semester. Midway through the semester, students will submit project proposals in groups. These should include an introduction to the key idea, related work, and a timeline for the rest of the semester. The grade for the project will be a function of the proposal, final presentation, and final write-up. We expect projects to be of the quality of a paper at a top-tier ML conference, with a special emphasis placed on how the project builds on concepts from the course.
 
 Percentage | Activity  | 
 ------|-----|
