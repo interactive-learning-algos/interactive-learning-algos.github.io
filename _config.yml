@@ -26,8 +26,6 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 
-color_scheme: dark
-
 callouts:
   announcement:
     title: Announcements
