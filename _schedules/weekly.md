@@ -25,18 +25,18 @@ schedule:
       - name: Lecture
         start: 11:00 AM
         end: 12:20 PM
-        location: TBD
+        location: GHC 4215
   - name: Wednesday
   - name: Thursday
     events:
       - name: Lecture
         start: 11:00 AM
         end: 12:20 PM
-        location: TBD
+        location: GHC 4215
   - name: Friday
     events:
       - name: Office Hours
         start: 2:00 PM
         end: 3:00 PM
-        location: TBD
+        location: TCS 242
 ---
