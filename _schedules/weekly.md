@@ -38,5 +38,5 @@ schedule:
       - name: Office Hours
         start: 2:00 PM
         end: 3:00 PM
-        location: TCS 242
+        location: TCS 424
 ---

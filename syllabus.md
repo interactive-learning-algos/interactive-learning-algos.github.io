@@ -35,7 +35,7 @@ Key topics include:
 - **Title**: Algorithmic Foundations of Interactive Learning, Spring 2025
 - **Course Number**: 17-740
 - **Lecture**: 11:00AM--12:20PM EST, Tues & Thurs, GHC 4215
-- **Office Hours**: 2:00PM--3:00PM EST, Friday, TCS 242
+- **Office Hours**: 2:00PM--3:00PM EST, Friday, TCS 424
 
 ## Lecture Recordings
 We aim to publicly release lecture recordings / scribe notes within a few weeks of the corresponding class. However, we still expect students to attend lectures and will grade them accordingly.
