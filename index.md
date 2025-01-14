@@ -9,6 +9,7 @@ seo:
 
 # Algorithmic Foundations of Interactive Learning
 Spring 2025. 17-740. Tuesday / Thursday 11:00-12:20. GHC 4215.
+[Lecture Recordings](https://youtube.com/playlist?list=PL51kEpt5uSsbJAMhp0uMAURDU9SHfwlyN&si=QNO7bJaQEkpMsbq5)
 
 ## Announcements 📣
 {% assign announcements = site.announcements | reverse %}

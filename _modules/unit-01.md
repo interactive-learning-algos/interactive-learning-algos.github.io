@@ -4,7 +4,7 @@ title: Online Learning
 
 Jan. 14
 : Course Overview
-  : [Syllabus](https://interactive-learning-algos.github.io/syllabus/)
+  : [Video](https://youtu.be/5IxDk0bVVcI?si=G-jZzPuokm75mzh_), [Syllabus](https://interactive-learning-algos.github.io/syllabus/)
 
 Jan. 16
 : Intro to Online Learning / Hedge
