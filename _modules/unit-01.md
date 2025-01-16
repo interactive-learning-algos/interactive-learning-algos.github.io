@@ -8,7 +8,7 @@ Jan. 14
 
 Jan. 16
 : Intro to Online Learning / Hedge
-  : [JAB Course Note](https://www.cs.cmu.edu/~16831-f14/notes/F10/16831_lecture09_beckart/16831_lecture09_beckart.pdf), [Hedge](https://www.cis.upenn.edu/~mkearns/teaching/COLT/adaboost.pdf)
+  : [JAB Course Note](https://www.cs.cmu.edu/~16831-f14/notes/F10/16831_lecture09_beckart/16831_lecture09_beckart.pdf), [Weighted Majority](https://www.cs.cmu.edu/~ninamf/LGO10/wm.pdf), [Hedge](https://www.cis.upenn.edu/~mkearns/teaching/COLT/adaboost.pdf), [Universal Portfolios](https://isl.stanford.edu/~cover/papers/paper93.pdf)
 
 Jan. 21
 : Information Theory and Maximum Entropy
