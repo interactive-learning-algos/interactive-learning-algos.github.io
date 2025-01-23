@@ -7,17 +7,17 @@ Jan. 14
   : [Syllabus](https://interactive-learning-algos.github.io/syllabus/)
 
 Jan. 16
-: Intro to Online Learning / Hedge
-  : [JAB Course Note](https://www.cs.cmu.edu/~16831-f14/notes/F10/16831_lecture09_beckart/16831_lecture09_beckart.pdf), [Weighted Majority](https://www.cs.cmu.edu/~ninamf/LGO10/wm.pdf), [Hedge](https://www.cis.upenn.edu/~mkearns/teaching/COLT/adaboost.pdf), [Universal Portfolios](https://isl.stanford.edu/~cover/papers/paper93.pdf)
+: Intro to Online Learning / Weighted Majority
+  : [JAB Course Note](https://www.cs.cmu.edu/~16831-f14/notes/F10/16831_lecture09_beckart/16831_lecture09_beckart.pdf), [Weighted Majority](https://www.cs.cmu.edu/~ninamf/LGO10/wm.pdf), [Universal Portfolios](https://isl.stanford.edu/~cover/papers/paper93.pdf)
 
 Jan. 21
-: Information Theory and Maximum Entropy
-  : [MacKay Ch. 2](https://www.inference.org.uk/itprnn/book.pdf), [MaxEnt](https://www.cs.princeton.edu/courses/archive/spr07/cos424/papers/maxent_icml.pdf)
+: Information Theory Overview
+  : [MacKay Ch. 2](https://www.inference.org.uk/itprnn/book.pdf), [What is Entropy?](https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/)
 
 Jan. 23
-: Online Gradient Descent
-  : [OGD](https://people.eecs.berkeley.edu/~brecht/cs294docs/week1/03.Zinkevich.pdf)
+: Maximum Entropy & Hedge
+  : [MaxEnt](https://www.cs.princeton.edu/courses/archive/spr07/cos424/papers/maxent_icml.pdf), [The Entropy Principle](https://bayes.wustl.edu/etj/science.and.engineering/lect.10.pdf),  [Hedge](https://www.cis.upenn.edu/~mkearns/teaching/COLT/adaboost.pdf)
 
 Jan. 26
-: Buffer / Follow-the-Leader
-  : [FTRL](https://proceedings.mlr.press/v15/mcmahan11b/mcmahan11b.pdf)
+: Online Gradient Descent / Follow-the-Leader
+  : [OGD](https://people.eecs.berkeley.edu/~brecht/cs294docs/week1/03.Zinkevich.pdf), [FTRL](https://proceedings.mlr.press/v15/mcmahan11b/mcmahan11b.pdf)
