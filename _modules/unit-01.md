@@ -15,9 +15,9 @@ Jan. 21
   : [MacKay Ch. 2](https://www.inference.org.uk/itprnn/book.pdf), [What is Entropy?](https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/)
 
 Jan. 23
-: Maximum Entropy & Hedge
-  : [MaxEnt](https://www.cs.princeton.edu/courses/archive/spr07/cos424/papers/maxent_icml.pdf), [The Entropy Principle](https://bayes.wustl.edu/etj/science.and.engineering/lect.10.pdf),  [Hedge](https://www.cis.upenn.edu/~mkearns/teaching/COLT/adaboost.pdf)
+: Maximum Entropy & FTRL
+  : [MaxEnt](https://www.cs.princeton.edu/courses/archive/spr07/cos424/papers/maxent_icml.pdf), [The Entropy Principle](https://bayes.wustl.edu/etj/science.and.engineering/lect.10.pdf), [FTRL](https://proceedings.mlr.press/v15/mcmahan11b/mcmahan11b.pdf), [Hedge](https://www.cis.upenn.edu/~mkearns/teaching/COLT/adaboost.pdf)
 
 Jan. 26
-: Online Gradient Descent / Follow-the-Leader
-  : [OGD](https://people.eecs.berkeley.edu/~brecht/cs294docs/week1/03.Zinkevich.pdf), [FTRL](https://proceedings.mlr.press/v15/mcmahan11b/mcmahan11b.pdf)
+: Online Gradient Descent
+  : [OGD](https://people.eecs.berkeley.edu/~brecht/cs294docs/week1/03.Zinkevich.pdf)
