@@ -18,6 +18,6 @@ Jan. 23
 : Maximum Entropy & FTRL
   : [MaxEnt](https://www.cs.princeton.edu/courses/archive/spr07/cos424/papers/maxent_icml.pdf), [The Entropy Principle](https://bayes.wustl.edu/etj/science.and.engineering/lect.10.pdf), [FTRL](https://proceedings.mlr.press/v15/mcmahan11b/mcmahan11b.pdf), [Hedge](https://www.cis.upenn.edu/~mkearns/teaching/COLT/adaboost.pdf)
 
-Jan. 26
+Jan. 28
 : Online Gradient Descent
   : [OGD](https://people.eecs.berkeley.edu/~brecht/cs294docs/week1/03.Zinkevich.pdf)

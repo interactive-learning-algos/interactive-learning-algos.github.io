@@ -2,7 +2,7 @@
 title: Game Solving
 ---
 
-Jan. 28
+Jan. 30
 : Computing Equilibria I
   : [Adaboost](https://www.cis.upenn.edu/~mkearns/teaching/COLT/adaboost.pdf), [Roth Textbook Ch.2](https://www.cis.upenn.edu/~aaroth/GamesInLearning.pdf)
 
