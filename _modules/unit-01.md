@@ -3,7 +3,7 @@ title: Online Learning
 ---
 
 Jan. 14
-: Course Overview [[Slides]](https://drive.google.com/file/d/1NT2gE74RxQb9aKhKe-hyyoK73bd_2G9M/view?usp=sharing)
+: Course Overview [[Slides]](https://drive.google.com/file/d/1NT2gE74RxQb9aKhKe-hyyoK73bd_2G9M/view?usp=sharing)[[Video]](https://youtu.be/5IxDk0bVVcI)
   : [Syllabus](https://interactive-learning-algos.github.io/syllabus/)
 
 Jan. 16
