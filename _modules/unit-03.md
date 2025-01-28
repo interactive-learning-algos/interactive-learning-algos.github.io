@@ -4,11 +4,11 @@ title: Sequential Decision Making (RL/IL)
 
 Feb. 6
 : Foundations of MDPs
-  : [Nan's Note 1](https://nanjiang.cs.illinois.edu/files/cs542f22/note1.pdf), **HW #1 Out**{: .label .label-blue}
+  : [Nan's Note 1](https://nanjiang.cs.illinois.edu/files/cs542f22/note1.pdf)
 
 Feb. 11
 : DAgger & Covariate Shift in IL
-  : [Invitation to Imitation](https://www.ri.cmu.edu/pub_files/2015/3/InvitationToImitation_3_1415.pdf), [DAgger](https://arxiv.org/pdf/1011.0686)
+  : [Invitation to Imitation](https://www.ri.cmu.edu/pub_files/2015/3/InvitationToImitation_3_1415.pdf), [DAgger](https://arxiv.org/pdf/1011.0686), **HW #1 Out**{: .label .label-blue}
 
 Feb. 13
 : Approximate Policy Iteration
