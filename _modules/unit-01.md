@@ -7,7 +7,7 @@ Jan. 14
   : [Syllabus](https://interactive-learning-algos.github.io/syllabus/)
 
 Jan. 16
-: Intro to Online Learning / Weighted Majority
+: Intro to Online Learning / Weighted Majority [[Scribe 2]](/assets/pdfs/scribe_2.pdf)
   : [JAB Course Note](https://www.cs.cmu.edu/~16831-f14/notes/F10/16831_lecture09_beckart/16831_lecture09_beckart.pdf), [Weighted Majority](https://www.cs.cmu.edu/~ninamf/LGO10/wm.pdf), [Universal Portfolios](https://isl.stanford.edu/~cover/papers/paper93.pdf)
 
 Jan. 21
