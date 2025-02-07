@@ -4,7 +4,7 @@ title: Sequential Decision Making (RL/IL)
 
 Feb. 6
 : Foundations of MDPs
-  : [Nan's Note 1](https://nanjiang.cs.illinois.edu/files/cs542f22/note1.pdf)
+  : [Akshay's Note](https://people.cs.umass.edu/~akshay/courses/coms6998-11/files/lec5.pdf)
 
 Feb. 11
 : DAgger & Covariate Shift in IL

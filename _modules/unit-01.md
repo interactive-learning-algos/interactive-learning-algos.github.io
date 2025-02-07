@@ -19,5 +19,5 @@ Jan. 23
   : [MaxEnt](https://www.cs.princeton.edu/courses/archive/spr07/cos424/papers/maxent_icml.pdf), [The Entropy Principle](https://bayes.wustl.edu/etj/science.and.engineering/lect.10.pdf), [FTRL](https://proceedings.mlr.press/v15/mcmahan11b/mcmahan11b.pdf), [Hedge](https://www.cis.upenn.edu/~mkearns/teaching/COLT/adaboost.pdf)
 
 Jan. 28
-: Online Gradient Descent
+: Online Gradient Descent [[Video]](https://www.youtube.com/watch?v=_0-gVwbehfM)
   : [OGD](https://people.eecs.berkeley.edu/~brecht/cs294docs/week1/03.Zinkevich.pdf)

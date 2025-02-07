@@ -3,9 +3,9 @@ title: Game Solving
 ---
 
 Jan. 30
-: Computing Equilibria I
+: Computing Equilibria I [[Video]](https://youtu.be/wN4WyATF1oY)
   : [Adaboost](https://www.cis.upenn.edu/~mkearns/teaching/COLT/adaboost.pdf), [Roth Textbook Ch.2](https://www.cis.upenn.edu/~aaroth/GamesInLearning.pdf)
 
 Feb. 4
-: Computing Equilibria II
+: Computing Equilibria II [[Video]](https://youtu.be/bd2L0LZ_kUM)
   : [Adaboost](https://www.cis.upenn.edu/~mkearns/teaching/COLT/adaboost.pdf), [Roth Textbook Ch.2](https://www.cis.upenn.edu/~aaroth/GamesInLearning.pdf), [Gabriele's CFR Note](https://www.mit.edu/~gfarina/2021/15888f21_L05_cfr/)
