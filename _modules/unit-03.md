@@ -33,8 +33,8 @@ Feb. 27
 Spring Break 🏝️
 
 Mar. 11
-: Model-based RL
-  : [Wen's Simulation Lemma Note](https://wensun.github.io/CS4789_data/simulation_lemma.pdf), [Nan's Note 4](https://nanjiang.cs.illinois.edu/files/cs542f22/note4.pdf)
+: Model-based RL as Game-Solving
+  : [Wen's Simulation Lemma Note](https://wensun.github.io/CS4789_data/simulation_lemma.pdf), [Agnostic SysID](https://arxiv.org/abs/1203.1007)
 
 Mar. 13
 : **Proj. Proposal Due**{: .label .label-blue} Hybrid RL (Guest Lecture: [Yuda Song](https://yudasong.github.io/))
