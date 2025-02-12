@@ -7,12 +7,12 @@ Feb. 6
   : [Akshay's Note](https://people.cs.umass.edu/~akshay/courses/coms6998-11/files/lec5.pdf), [Nan's Note](https://nanjiang.cs.illinois.edu/files/cs542f22/note1.pdf)
 
 Feb. 11
-: DAgger & Covariate Shift in IL  **HW #1a Out**{: .label .label-blue} [HW #1a](https://www.overleaf.com/read/qkhhmvhzhspy#cbc243)
+: **HW #1a Out**{: .label .label-blue} DAgger & Covariate Shift in IL [HW #1a](https://www.overleaf.com/read/qkhhmvhzhspy#cbc243)
   : [Invitation to Imitation](https://www.ri.cmu.edu/pub_files/2015/3/InvitationToImitation_3_1415.pdf), [DAgger](https://arxiv.org/pdf/1011.0686),
 
 Feb. 13
-: Approximate Policy Iteration  **HW #1b Out**{: .label .label-blue}
-  : [CPI](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf), [PSDP](https://papers.nips.cc/paper_files/paper/2003/file/3837a451cd0abc5ce4069304c5442c87-Paper.pdf), [NRPI](https://arxiv.org/pdf/1406.5979) **HW #1b Out**{: .label .label-blue}
+: **HW #1b Out**{: .label .label-blue} Approximate Policy Iteration  
+  : [CPI](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf), [PSDP](https://papers.nips.cc/paper_files/paper/2003/file/3837a451cd0abc5ce4069304c5442c87-Paper.pdf), [NRPI](https://arxiv.org/pdf/1406.5979)
 
 Feb. 18
 : Policy Gradients
