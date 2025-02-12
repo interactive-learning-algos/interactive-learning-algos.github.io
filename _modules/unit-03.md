@@ -37,7 +37,7 @@ Mar. 11
   : **HW #2 Out**{: .label .label-blue}
 
 Mar. 13
-:  Model-based RL as Game-Solving 
+: Model-based RL as Game-Solving
   : [Wen's Simulation Lemma Note](https://wensun.github.io/CS4789_data/simulation_lemma.pdf), [Agnostic SysID](https://arxiv.org/abs/1203.1007)
 
 Mar. 18
