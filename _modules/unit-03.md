@@ -12,7 +12,7 @@ Feb. 11
 
 Feb. 13
 : **HW #1b Out**{: .label .label-blue} Approximate Policy Iteration  
-  : [CPI](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf), [PSDP](https://papers.nips.cc/paper_files/paper/2003/file/3837a451cd0abc5ce4069304c5442c87-Paper.pdf), [NRPI](https://arxiv.org/pdf/1406.5979)
+  : [MACRL Ch. 8](https://macrl-book.github.io/assets/pdf/8_macrl.pdf), [CPI](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf), [PSDP](https://papers.nips.cc/paper_files/paper/2003/file/3837a451cd0abc5ce4069304c5442c87-Paper.pdf), [NRPI](https://arxiv.org/pdf/1406.5979)
 
 Feb. 18
 : Policy Gradients
