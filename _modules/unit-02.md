@@ -3,7 +3,7 @@ title: Game Solving
 ---
 
 Jan. 30
-: Minimax via No Regret I [[Video]](https://youtu.be/wN4WyATF1oY)
+: Minimax via No Regret I [[Video]](https://youtu.be/wN4WyATF1oY) [[Scribe]](/assets/pdfs/scribe_6.pdf)
   : [Adaboost](https://www.cis.upenn.edu/~mkearns/teaching/COLT/adaboost.pdf), [Roth Textbook Ch.2](https://www.cis.upenn.edu/~aaroth/GamesInLearning.pdf)
 
 Feb. 4
