@@ -19,7 +19,7 @@ Feb. 18
   : [Wen's Slides](https://wensun.github.io/CS6789_fall_2024/PG_1_pdf.pdf)
 
 Feb. 20
-: Policy Gradients: Baselines
+: Policy Gradients: Baselines / Actor-Critic
   : [PPO](https://arxiv.org/pdf/1707.06347), [PPO Tricks](https://iclr-blog-track.github.io/2022/03/25/ppo-implementation-details/), [GAE](https://arxiv.org/pdf/1506.02438),
 
 Feb. 25
