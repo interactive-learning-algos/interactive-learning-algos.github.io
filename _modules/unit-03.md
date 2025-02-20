@@ -15,15 +15,15 @@ Feb. 13
   : [MACRL Ch. 8](https://macrl-book.github.io/assets/pdf/8_macrl.pdf), [CPI](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf), [PSDP](https://papers.nips.cc/paper_files/paper/2003/file/3837a451cd0abc5ce4069304c5442c87-Paper.pdf), [NRPI](https://arxiv.org/pdf/1406.5979)
 
 Feb. 18
-: Policy Gradients: Intro
+: Policy Gradients: Introduction
   : [Wen's Slides](https://wensun.github.io/CS6789_fall_2024/PG_1_pdf.pdf)
 
 Feb. 20
-: Policy Gradients: Baselines and Exploration
-  : [PPO](https://arxiv.org/pdf/1707.06347), [PPO Tricks](https://iclr-blog-track.github.io/2022/03/25/ppo-implementation-details/), [GAE](https://arxiv.org/pdf/1506.02438), [Effective Horizon](https://proceedings.neurips.cc/paper_files/paper/2023/file/b8be628bf719550b560de8bec9456e0b-Paper-Conference.pdf)
+: Policy Gradients: Baselines
+  : [PPO](https://arxiv.org/pdf/1707.06347), [PPO Tricks](https://iclr-blog-track.github.io/2022/03/25/ppo-implementation-details/), [GAE](https://arxiv.org/pdf/1506.02438),
 
 Feb. 25
-: 3 Perspectives on The Natural Policy Gradient
+: 3 Views of The Natural Policy Gradient
   : [NPG](https://proceedings.neurips.cc/paper_files/paper/2001/file/4b86abe48d358ecf194c56c69108433e-Paper.pdf), [Covariant Policy Search](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=acbba2baaff24d6772ff89c27440c8c599115e19), [TRPO](https://arxiv.org/pdf/1502.05477)
 
 Feb. 27
