@@ -3,7 +3,7 @@ title: Sequential Decision Making (RL/IL)
 ---
 
 Feb. 6
-: Foundations of MDPs [[Video]](https://youtu.be/HClt4ZMa1eA)
+: Foundations of MDPs [[Video]](https://youtu.be/HClt4ZMa1eA), [[Scribe]](/assets/pdfs/scribe_8.pdf)
   : [Akshay's Note](https://people.cs.umass.edu/~akshay/courses/coms6998-11/files/lec5.pdf), [Nan's Note](https://nanjiang.cs.illinois.edu/files/cs542f22/note1.pdf)
 
 Feb. 11
