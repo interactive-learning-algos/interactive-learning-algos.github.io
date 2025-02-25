@@ -24,7 +24,7 @@ Feb. 20
 
 Feb. 25
 : 3 Views of The Natural Policy Gradient
-  : [NPG](https://proceedings.neurips.cc/paper_files/paper/2001/file/4b86abe48d358ecf194c56c69108433e-Paper.pdf), [Covariant Policy Search](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=acbba2baaff24d6772ff89c27440c8c599115e19), [TRPO](https://arxiv.org/pdf/1502.05477)
+  : [NPG](https://proceedings.neurips.cc/paper_files/paper/2001/file/4b86abe48d358ecf194c56c69108433e-Paper.pdf), [Covariant Policy Search](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=acbba2baaff24d6772ff89c27440c8c599115e19), [TRPO](https://arxiv.org/pdf/1502.05477), [REINFORCE for LLMs](https://arxiv.org/abs/2402.14740)
 
 Feb. 27
 : **HW #1a due.**{: .label .label-blue} Learning by Cheating 
