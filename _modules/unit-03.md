@@ -20,11 +20,11 @@ Feb. 18
 
 Feb. 20
 : Policy Gradients: Baselines / Actor-Critic [[Video]](https://youtu.be/Z-yz-Q43o1Q)
-  : [PPO](https://arxiv.org/pdf/1707.06347), [PPO Tricks](https://iclr-blog-track.github.io/2022/03/25/ppo-implementation-details/), [GAE](https://arxiv.org/pdf/1506.02438),
+  : [PPO](https://arxiv.org/pdf/1707.06347), [PPO Tricks](https://iclr-blog-track.github.io/2022/03/25/ppo-implementation-details/), [GAE](https://arxiv.org/pdf/1506.02438), [REINFORCE for LLMs](https://arxiv.org/abs/2402.14740)
 
 Feb. 25
 : 3 Views of The Natural Policy Gradient [[Video]](https://youtu.be/wyE8cUjpyTU)
-  : [NPG](https://proceedings.neurips.cc/paper_files/paper/2001/file/4b86abe48d358ecf194c56c69108433e-Paper.pdf), [Covariant Policy Search](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=acbba2baaff24d6772ff89c27440c8c599115e19), [TRPO](https://arxiv.org/pdf/1502.05477), [REINFORCE for LLMs](https://arxiv.org/abs/2402.14740)
+  : [NPG](https://proceedings.neurips.cc/paper_files/paper/2001/file/4b86abe48d358ecf194c56c69108433e-Paper.pdf), [Covariant Policy Search](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=acbba2baaff24d6772ff89c27440c8c599115e19), [TRPO](https://arxiv.org/pdf/1502.05477)
 
 Feb. 27
 : **HW #1a due.**{: .label .label-blue} Learning by Cheating 

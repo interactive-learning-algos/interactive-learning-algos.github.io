@@ -15,4 +15,4 @@ Apr. 1
   : [Diffusion Policy](https://arxiv.org/pdf/2303.04137), [DREAMER](https://arxiv.org/pdf/2301.04104)
 
 Apr. 3
-: **HW #2 Pres.**{: .label .label-blue}
+: Buffer 🎡
