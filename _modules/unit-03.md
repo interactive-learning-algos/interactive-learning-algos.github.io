@@ -15,11 +15,11 @@ Feb. 13
   : [MACRL Ch. 8](https://macrl-book.github.io/assets/pdf/8_macrl.pdf), [CPI](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf), [PSDP](https://papers.nips.cc/paper_files/paper/2003/file/3837a451cd0abc5ce4069304c5442c87-Paper.pdf), [NRPI](https://arxiv.org/pdf/1406.5979)
 
 Feb. 18
-: Policy Gradients: Introduction [[Video]](https://youtu.be/fAgjW6l9vRQ)
+: Policy Gradients: Introduction [[Video]](https://youtu.be/fAgjW6l9vRQ), [[Scribe]](/assets/pdfs/scribe_11.pdf)
   : [Wen's Slides](https://wensun.github.io/CS6789_fall_2024/PG_1_pdf.pdf)
 
 Feb. 20
-: Policy Gradients: Baselines / Actor-Critic [[Video]](https://youtu.be/Z-yz-Q43o1Q)
+: Policy Gradients: Baselines / Actor-Critic [[Video]](https://youtu.be/Z-yz-Q43o1Q), [[Scribe]](/assets/pdfs/scribe_12.pdf)
   : [PPO](https://arxiv.org/pdf/1707.06347), [PPO Tricks](https://iclr-blog-track.github.io/2022/03/25/ppo-implementation-details/), [GAE](https://arxiv.org/pdf/1506.02438), [REINFORCE for LLMs](https://arxiv.org/abs/2402.14740)
 
 Feb. 25
