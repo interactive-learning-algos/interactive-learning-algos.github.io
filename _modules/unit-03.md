@@ -27,7 +27,7 @@ Feb. 25
   : [NPG](https://proceedings.neurips.cc/paper_files/paper/2001/file/4b86abe48d358ecf194c56c69108433e-Paper.pdf), [Covariant Policy Search](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=acbba2baaff24d6772ff89c27440c8c599115e19), [TRPO](https://arxiv.org/pdf/1502.05477)
 
 Feb. 27
-: **HW #1a due.**{: .label .label-blue} Learning by Cheating 
+: **HW #1a due.**{: .label .label-blue} Learning by Cheating [[Slides]](/assets/pdfs/LearningByCheating.pdf)
   : [LBC](https://arxiv.org/pdf/1912.12294), [SequIL](https://gokul.dev/sequil/)
 
 Spring Break 🏝️
