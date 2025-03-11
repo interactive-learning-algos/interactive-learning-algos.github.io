@@ -12,7 +12,7 @@ Mar. 27
 
 Apr. 1
 : IRL<sup>2</sup>: Inverse RL In Real Life (Guest Lecture: [Sanjiban Choudhury](https://sanjibanc.github.io/))
-  : [Diffusion Policy](https://arxiv.org/pdf/2303.04137), [DREAMER](https://arxiv.org/pdf/2301.04104)
+  : [Diffusion Policy](https://arxiv.org/pdf/2303.04137)
 
 Apr. 3
 : Buffer 🎡

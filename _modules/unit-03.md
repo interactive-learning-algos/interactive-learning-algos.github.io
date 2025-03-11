@@ -34,7 +34,7 @@ Spring Break 🏝️
 
 Mar. 11
 : Model-based RL as Game-Solving
-  : [Wen's Simulation Lemma Note](https://wensun.github.io/CS4789_data/simulation_lemma.pdf), [Agnostic SysID](https://arxiv.org/abs/1203.1007)
+  : [Wen's Simulation Lemma Note](https://wensun.github.io/CS4789_data/simulation_lemma.pdf), [Agnostic SysID](https://arxiv.org/abs/1203.1007), [DREAMER](https://arxiv.org/pdf/2301.04104)
 
 Mar. 13
 : **HW #1b Pres.**{: .label .label-blue}
