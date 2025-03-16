@@ -41,7 +41,7 @@ Mar. 13
 
 Mar. 18
 : Hybrid RL (Guest Lecture: [Yuda Song](https://yudasong.github.io/))
-  : [Yuda's Note](/assets/pdfs/hybrid_RL.pdf) [HyQ](https://arxiv.org/pdf/2210.06718), [LAMPS](https://arxiv.org/pdf/2303.00694)
+  : [Yuda's Note](/assets/pdfs/hybrid_RL.pdf), [HyQ](https://arxiv.org/pdf/2210.06718), [LAMPS](https://arxiv.org/pdf/2303.00694)
 
 Mar. 20
 : **Proj. Proposal Due**{: .label .label-blue} Model Predictive Control & Test-Time Scaling
