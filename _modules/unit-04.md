@@ -3,7 +3,7 @@ title: Inverse RL
 ---
 
 Mar. 25
-: IL as Game Solving
+: **Proj. Proposal Due**{: .label .label-blue} IL as Game Solving
   : [MaxEnt IRL](https://cdn.aaai.org/AAAI/2008/AAAI08-227.pdf), [Moment Matching](https://gokul.dev/mmil/)
 
 Mar. 27
