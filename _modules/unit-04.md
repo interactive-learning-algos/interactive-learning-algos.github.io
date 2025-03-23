@@ -1,5 +1,5 @@
 ---
-title: Inverse RL
+title: Imitation Learning
 ---
 
 Mar. 25

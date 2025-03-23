@@ -45,4 +45,4 @@ Mar. 18
 
 Mar. 20
 : Model Predictive Control & Test-Time Scaling
-  : [MCTS](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=6661e57237e4e8739b7a4946c4d3d4875376c068)
+  : [Sparse Sampling](https://www.cis.upenn.edu/~mkearns/papers/sparsesampling-journal.pdf), [MCTS](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=6661e57237e4e8739b7a4946c4d3d4875376c068), [THOR](https://arxiv.org/abs/1805.11240), [MPPI](https://homes.cs.washington.edu/~bboots/files/InformationTheoreticMPC.pdf), [Expert Iteation](https://arxiv.org/abs/1705.08439), [Dual Policy Iteration](https://arxiv.org/abs/1805.10755), [V-STaR](https://arxiv.org/abs/2402.06457), [Self-Improvement](https://arxiv.org/abs/2412.01951)
