@@ -33,7 +33,7 @@ Feb. 27
 Spring Break 🏝️
 
 Mar. 11
-: Model-based RL as Game-Solving [[Video]](https://youtu.be/bhGfH3cycKA)
+: Model-based RL as Game-Solving [[Video]](https://youtu.be/bhGfH3cycKA), [[Scribe]](/assets/pdfs/scribe_15.pdf)
   : [Wen's Simulation Lemma Note](https://wensun.github.io/CS4789_data/simulation_lemma.pdf), [Agnostic SysID](https://arxiv.org/abs/1203.1007), [DREAMER](https://arxiv.org/pdf/2301.04104)
 
 Mar. 13
