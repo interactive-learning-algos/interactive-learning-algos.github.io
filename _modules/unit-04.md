@@ -8,7 +8,7 @@ Mar. 25
 
 Mar. 27
 : Efficient Inverse RL
-  : [FILTER](https://gokul.dev/filter/), [Hybrid IRL](https://gokul.dev/hyper/)
+  : [FILTER](https://gokul.dev/filter/), [Hybrid IRL](https://gokul.dev/hyper/), [Efficient Imitation Under Misspecification](https://arxiv.org/abs/2503.13162)
 
 Apr. 1
 : IRL<sup>2</sup>: Inverse RL In Real Life (Guest Lecture: [Sanjiban Choudhury](https://sanjibanc.github.io/))
