@@ -15,4 +15,4 @@ Apr. 1
   : [Diffusion Policy](https://arxiv.org/pdf/2303.04137)
 
 Apr. 3
-: 🎡 & Misspecification in Imitation
+: 🎡
