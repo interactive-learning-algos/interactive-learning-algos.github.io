@@ -3,12 +3,12 @@ title: RLHF
 ---
 
 Apr. 8
-: The Information Geometry of RLHF
-  : [RL from Prefs.](https://arxiv.org/pdf/1706.03741), [PPO+RM](https://arxiv.org/abs/2009.01325), [All Roads Lead to Likelihood](https://arxiv.org/abs/2503.01067)
+: **HW #2 Out**{: .label .label-blue} The Information Geometry of RLHF [[HW #2]](https://www.overleaf.com/read/jgqmyxbqbztw#0b1a1b)
+  : [RL from Prefs.](https://arxiv.org/pdf/1706.03741), [PPO+RM](https://arxiv.org/abs/2009.01325), [DPO](https://arxiv.org/pdf/2305.18290), [All Roads Lead to Likelihood](https://arxiv.org/abs/2503.01067), 
 
 Apr. 10
 : The Value of Interaction in RLHF
-  : [DPO](https://arxiv.org/pdf/2305.18290), [HyPO](https://arxiv.org/abs/2406.01462), [All Roads Lead to Likelihood](https://arxiv.org/abs/2503.01067)
+  : [HyPO](https://arxiv.org/abs/2406.01462), [All Roads Lead to Likelihood](https://arxiv.org/abs/2503.01067)
 
 Apr. 15
 : REBEL and REFUEL (Guest Lecture: [Wen Sun](https://wensun.github.io/))
@@ -16,4 +16,4 @@ Apr. 15
 
 Apr. 17
 : RLHF as Game Solving
-  : [SPO](https://gokul.dev/spo/)
+  : [SPO](https://gokul.dev/spo/), [DNO](https://arxiv.org/abs/2404.03715)
