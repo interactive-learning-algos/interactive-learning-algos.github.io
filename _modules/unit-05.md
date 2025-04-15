@@ -11,7 +11,7 @@ Apr. 10
   : [HyPO](https://arxiv.org/abs/2406.01462), [All Roads Lead to Likelihood](https://arxiv.org/abs/2503.01067)
 
 Apr. 15
-: REBEL and REFUEL (Guest Lecture: [Wen Sun](https://wensun.github.io/))
+: RL via Regressing Relative Rewards (Guest Lecture: [Wen Sun](https://wensun.github.io/)) [[Video]](https://youtu.be/qdkBZJywi_4)
   : [REBEL](https://arxiv.org/abs/2404.16767), [REFUEL](https://arxiv.org/pdf/2410.04612)
 
 Apr. 17
