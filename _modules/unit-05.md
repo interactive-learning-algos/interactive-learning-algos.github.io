@@ -15,5 +15,5 @@ Apr. 15
   : [REBEL](https://arxiv.org/abs/2404.16767), [REFUEL](https://arxiv.org/pdf/2410.04612)
 
 Apr. 17
-: RLHF as Game Solving
+: RLHF as Game Solving [[Video]](https://youtu.be/QF6ZQrsihpE)
   : [SPO](https://gokul.dev/spo/), [DNO](https://arxiv.org/abs/2404.03715)
