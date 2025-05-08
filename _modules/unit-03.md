@@ -7,7 +7,7 @@ Feb. 6
   : [Akshay's Note](https://people.cs.umass.edu/~akshay/courses/coms6998-11/files/lec5.pdf), [Nan's Note](https://nanjiang.cs.illinois.edu/files/cs542f22/note1.pdf)
 
 Feb. 11
-: **HW #1a Out**{: .label .label-blue} DAgger & Covariate Shift in IL [[HW #1a]](https://www.overleaf.com/read/qkhhmvhzhspy#cbc243)
+: **HW #1a Out**{: .label .label-blue} DAgger & Covariate Shift in IL [[HW #1a]](https://www.overleaf.com/read/qkhhmvhzhspy#cbc243), [[Scribe]](/assets/pdfs/scribe_9.pdf)
   : [Invitation to Imitation](https://www.ri.cmu.edu/pub_files/2015/3/InvitationToImitation_3_1415.pdf), [DAgger](https://arxiv.org/pdf/1011.0686),
 
 Feb. 13
