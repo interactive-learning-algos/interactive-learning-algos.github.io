@@ -40,7 +40,7 @@ Mar. 13
 : **HW #1b Pres.**{: .label .label-blue} [[Video]](https://youtu.be/4z2vETvluxk)
 
 Mar. 18
-: Hybrid RL (Guest Lecture: [Yuda Song](https://yudasong.github.io/)) [[Proj. Proposal]](https://forms.gle/3XV39pPD9fjgqwZY9) [[Video]](https://youtu.be/1B2XGXQ2hfA)
+: Hybrid RL (Guest Lecture: [Yuda Song](https://yudasong.github.io/)) [[Proj. Proposal]](https://forms.gle/3XV39pPD9fjgqwZY9) [[Video]](https://youtu.be/1B2XGXQ2hfA) [[Scribe]](/assets/pdfs/scribe_16.pdf)
   : [Yuda's Note](/assets/pdfs/hybrid_RL.pdf), [HyQ](https://arxiv.org/pdf/2210.06718), [LAMPS](https://arxiv.org/pdf/2303.00694)
 
 Mar. 20
