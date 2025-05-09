@@ -44,5 +44,5 @@ Mar. 18
   : [Yuda's Note](/assets/pdfs/hybrid_RL.pdf), [HyQ](https://arxiv.org/pdf/2210.06718), [LAMPS](https://arxiv.org/pdf/2303.00694)
 
 Mar. 20
-: Model Predictive Control & Test-Time Scaling [[Video]](https://youtu.be/U9QjtyCr8_Y)
+: Model Predictive Control & Test-Time Scaling [[Video]](https://youtu.be/U9QjtyCr8_Y) [[Scribe]](/assets/pdfs/scribe_17.pdf)
   : [Sparse Sampling](https://www.cis.upenn.edu/~mkearns/papers/sparsesampling-journal.pdf), [MCTS](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=6661e57237e4e8739b7a4946c4d3d4875376c068), [THOR](https://arxiv.org/abs/1805.11240), [MPPI](https://homes.cs.washington.edu/~bboots/files/InformationTheoreticMPC.pdf), [Expert Iteration](https://arxiv.org/abs/1705.08439), [Dual Policy Iteration](https://arxiv.org/abs/1805.10755), [V-STaR](https://arxiv.org/abs/2402.06457), [Self-Improvement](https://arxiv.org/abs/2412.01951)
