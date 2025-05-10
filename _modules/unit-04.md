@@ -3,7 +3,7 @@ title: Imitation Learning
 ---
 
 Mar. 25
-: **Proj. Proposal Due**{: .label .label-blue} IL as Game Solving [[Video]](https://youtu.be/uESAXg-CXFs) [[Slides]](/assets/pdfs/lec_mar_25.pdf)
+: **Proj. Proposal Due**{: .label .label-blue} IL as Game Solving [[Video]](https://youtu.be/uESAXg-CXFs) [[Slides]](/assets/pdfs/lec_mar_25.pdf) [[Scribe]](/assets/pdfs/scribe_18.pdf)
   : [MaxEnt IRL](https://cdn.aaai.org/AAAI/2008/AAAI08-227.pdf), [Moment Matching](https://gokul.dev/mmil/), [Wen's Soft VI Note](https://wensun.github.io/CS4789_data/soft_VI.pdf)
 
 Mar. 27
