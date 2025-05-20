@@ -7,7 +7,7 @@ Mar. 25
   : [MaxEnt IRL](https://cdn.aaai.org/AAAI/2008/AAAI08-227.pdf), [Moment Matching](https://gokul.dev/mmil/), [Wen's Soft VI Note](https://wensun.github.io/CS4789_data/soft_VI.pdf)
 
 Mar. 27
-: Efficient Inverse RL [[Video]](https://youtu.be/N8-Nh_iTmps) [[Slides]](/assets/pdfs/lec_mar_27.pdf)
+: Efficient Inverse RL [[Video]](https://youtu.be/N8-Nh_iTmps) [[Slides]](/assets/pdfs/lec_mar_27.pdf) [[Scribe]](/assets/pdfs/scribe_19.pdf)
   : [FILTER](https://gokul.dev/filter/), [Hybrid IRL](https://gokul.dev/hyper/), [Efficient Imitation Under Misspecification](https://arxiv.org/abs/2503.13162)
 
 Apr. 1
