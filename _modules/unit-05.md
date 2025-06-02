@@ -12,7 +12,7 @@ Apr. 10
 
 Apr. 15
 : RL via Regressing Relative Rewards (Guest Lecture: [Wen Sun](https://wensun.github.io/)) [[Video]](https://youtu.be/qdkBZJywi_4)
-  : [REBEL](https://arxiv.org/abs/2404.16767), [REFUEL](https://arxiv.org/pdf/2410.04612)
+  : [REBEL](https://arxiv.org/abs/2404.16767), [REFUEL](https://arxiv.org/pdf/2410.04612), [Code Tutorial](https://blog.ml.cmu.edu/2025/06/01/rlhf-101-a-technical-tutorial-on-reinforcement-learning-from-human-feedback/)
 
 Apr. 17
 : RLHF as Game Solving [[Video]](https://youtu.be/QF6ZQrsihpE) [[Slides]](/assets/pdfs/lec_apr_17.pdf)
