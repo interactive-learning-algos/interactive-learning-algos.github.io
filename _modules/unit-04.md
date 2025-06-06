@@ -12,7 +12,7 @@ Mar. 27
 
 Apr. 1
 : IRL<sup>2</sup>: Inverse RL In Real Life (Guest Lecture: [Sanjiban Choudhury](https://sanjibanc.github.io/)) [[Video]](https://youtu.be/KnXSeTuCgFI?)
-  : [Diffusion Policy](https://arxiv.org/pdf/2303.04137)
+  : [Diffusion Policy](https://arxiv.org/pdf/2303.04137), [SAILOR](https://arxiv.org/abs/2506.05294)
 
 Apr. 3
 : **Spring Carnival 🎡 (No Class)**
