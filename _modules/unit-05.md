@@ -3,7 +3,7 @@ title: RLHF
 ---
 
 Apr. 8
-: **HW #2 Out**{: .label .label-blue} The Information Geometry of RLHF [[HW #2]](https://www.overleaf.com/read/jgqmyxbqbztw#0b1a1b) [[Video]](https://youtu.be/qHvB30J5gyo) [[Slides]](/assets/pdfs/lec_apr_8.pdf)
+: **HW #2 Out**{: .label .label-blue} The Information Geometry of RLHF [[HW #2]](https://www.overleaf.com/read/jgqmyxbqbztw#0b1a1b) [[Video]](https://youtu.be/qHvB30J5gyo) [[Slides]](/assets/pdfs/lec_apr_8.pdf)  [[Scribe]](/assets/pdfs/scribe_21.pdf)
   : [RL from Prefs.](https://arxiv.org/pdf/1706.03741), [PPO+RM](https://arxiv.org/abs/2009.01325), [DPO](https://arxiv.org/pdf/2305.18290), [All Roads Lead to Likelihood](https://arxiv.org/abs/2503.01067), 
 
 Apr. 10
