@@ -7,7 +7,7 @@ Apr. 8
   : [RL from Prefs.](https://arxiv.org/pdf/1706.03741), [PPO+RM](https://arxiv.org/abs/2009.01325), [DPO](https://arxiv.org/pdf/2305.18290), [All Roads Lead to Likelihood](https://arxiv.org/abs/2503.01067), 
 
 Apr. 10
-: The Value of Interaction in RLHF [[Video]](https://youtu.be/ZzFjoH47GIg) [[Slides]](/assets/pdfs/lec_apr_10.pdf)
+: The Value of Interaction in RLHF [[Video]](https://youtu.be/ZzFjoH47GIg) [[Slides]](/assets/pdfs/lec_apr_10.pdf) [[Scribe]](/assets/pdfs/scribe_22.pdf)
   : [HyPO](https://arxiv.org/abs/2406.01462), [All Roads Lead to Likelihood](https://arxiv.org/abs/2503.01067)
 
 Apr. 15
