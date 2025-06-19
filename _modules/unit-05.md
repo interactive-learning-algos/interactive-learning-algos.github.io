@@ -15,5 +15,5 @@ Apr. 15
   : [REBEL](https://arxiv.org/abs/2404.16767), [REFUEL](https://arxiv.org/pdf/2410.04612), [Code Tutorial](https://blog.ml.cmu.edu/2025/06/01/rlhf-101-a-technical-tutorial-on-reinforcement-learning-from-human-feedback/)
 
 Apr. 17
-: RLHF as Game Solving [[Video]](https://youtu.be/QF6ZQrsihpE) [[Slides]](/assets/pdfs/lec_apr_17.pdf)
+: RLHF as Game Solving [[Video]](https://youtu.be/QF6ZQrsihpE) [[Slides]](/assets/pdfs/lec_apr_17.pdf) [[Scribe]](/assets/pdfs/scribe_24.pdf)
   : [SPO](https://gokul.dev/spo/), [DNO](https://arxiv.org/abs/2404.03715)
